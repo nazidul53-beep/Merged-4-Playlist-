@@ -1,5 +1,8 @@
 name: Merge M3U Playlists
 
+permissions:
+  contents: write
+  
 on:
   workflow_dispatch:
   schedule:
