@@ -9,14 +9,11 @@
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://live13p.hotstar.com/hls/live/2027134/inallow-hundredmen-2026/eng/1540074984/15mindvrm02850d27ef06af48b5867c1f7552c1086708august2026/master_ap.m3u8?a=ns&hdnea=exp=1786221893~acl=/hls/live/2027134/inallow-hundredmen-2026/eng/1540074984/15mindvrm02850d27ef06af48b5867c1f7552c1086708august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=qyMmsNqGhaHLm6ccvy6oYST0YPdzx4FjWTPGLZqUbA3F-did=mC54U75s4DO384ocCUDWrMqYbwfS1w7Gp5DXz94talYb-cc=in-bl=jhs-de=2-pl=androidtv-ap=25.09.28.5-ut=paid-ttl=1800-type=paid-raf=1786220693-~hmac=f2f94ac5ebb75074b269a8af8031c58a13b7b2711e69f7b63fc8cdab277e2bc5
-#DATE:- 08-08-2026 22:20
+#DATE:- 09-08-2026 03:40
+# Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090538816" tvg-name="LIV Golf" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437518008954_LIV_Golf_New_York_day3_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Golf",ENG | New York - Day 3 - 8 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000295/Golf_New0808/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=20eb55ddc9e596ca157bf1d373ecbdd6-1786207803869
-# Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Sunday, 9 August 2026 at 2:42:13 am
+#DATE:- Sunday, 9 August 2026 at 4:14:11 am
 #EXTINF:-1 tvg-id="4248082" tvg-name="Court 5" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" tvg-language="English" group-title="FanCode | Tennis",ENG | Court 5
 https://dai-fancode.pages.dev/mumbai/4248082_english_hls_b785382d4412925_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248083" tvg-name="Rogers Court" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-Masters-Omnium-Banque-National-2026_FC-WEB.jpg" tvg-language="English" group-title="FanCode | Tennis",ENG | Rogers Court
@@ -25,5 +22,7 @@ https://dai-fancode.pages.dev/mumbai/4248083_english_hls_62ce73e70642627_1ta-di_
 https://dai-fancode.pages.dev/mumbai/4248084_english_hls_039f9ad7bc18894_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248183" tvg-name="Day 3   World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png" tvg-language="English" group-title="FanCode | Golf",ENG | Day 3   World Feed
 https://dai-fancode.pages.dev/mumbai/4248183_english_hls_3d2114a93d56237_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248279" tvg-name="St Kitts And Nevis Patriots Vs Trinbago Knight Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248279_53026_SKN_TKR_FC-Web.png" tvg-language="English" group-title="FanCode | Cricket",ENG | St Kitts And Nevis Patriots Vs Trinbago Knight Riders
+https://dai-fancode.pages.dev/mumbai/4248279_english_hls_b2b925705078494_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #DATE:- 08-08-2026 20:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
