@@ -39,16 +39,16 @@ https://live15p.hotstar.com/hls/live/2123207/inallow-fihmwc-2026/eng/1540075789/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540076190/15mindvrm02e0a48f8b6a8643e28382e1a1fdbc573b17august2026/master_ap.m3u8?a=ns&hdnea=exp=1786967042~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076190/15mindvrm02e0a48f8b6a8643e28382e1a1fdbc573b17august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=DCe8f8A2WNNoVbbrlYOIXXhT06nlzPJLO9g8I0Op9HMQ-did=QEHEhE1Ghu70B6iI94O9Tg7oVMqdMCnwECri6EhSm6xj-cc=in-bl=jhs-de=7-pl=androidtv-ap=24.01.01.6-ut=paid-ttl=1800-type=paid-raf=1786965842-~hmac=bd2e7383e67efee6002bd8f19dcda7572303202d60c3228a4684eceb014c370b
-#DATE:- 17-08-2026 18:20
+#DATE:- 17-08-2026 18:40
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090539441" tvg-name="IndianOil Durand Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022296/1786877925170364_DurandCup_QF_Mohun_Bagan_vs_Jamshedpur_FC_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Football",ENG | Mohun Bagan Super Giant vs Jamshedpur FC - Quarter Final 3 - 17 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/Football1708/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6e18f4a70697beda5fd7fa397d3b5c46-1786971001098
 #EXTINF:-1 tvg-id="1090539452" tvg-name="IndianOil Durand Cup 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022301/1786879171557753_DurandCup_QF_Shillong_Lajong_FC_vs_NorthEast_United_FC_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Football",ENG | Shillong Lajong FC vs NorthEast United FC - Quarter Final 4 - 17 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/Football1708/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6e18f4a70697beda5fd7fa397d3b5c46-1786971001098
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/Football1708/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7999fdef275681bb07dc9506426b3226-1786972201220
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Monday, 17 August 2026 at 6:21:26 pm
+#DATE:- Monday, 17 August 2026 at 7:07:47 pm
+#EXTINF:-1 tvg-id="4247993" tvg-name="West Delhi Lions Vs South Delhi Superstarz" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png" tvg-language="English" group-title="FanCode | Cricket",ENG | West Delhi Lions Vs South Delhi Superstarz
+https://dai-fancode.pages.dev/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248383" tvg-name="Spain Vs Luxembourg" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248383_53031_LUX_ESP_fc-web.jpg" tvg-language="English" group-title="FanCode | Cricket",ENG | Spain Vs Luxembourg
 https://dai-fancode.pages.dev/mumbai/4248383_english_hls_ef89cf043a98256_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248385" tvg-name="Greece Vs Portugal" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248385_53031_GRE_POR_fc-web.jpg" tvg-language="English" group-title="FanCode | Cricket",ENG | Greece Vs Portugal
