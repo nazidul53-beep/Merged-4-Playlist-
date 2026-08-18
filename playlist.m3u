@@ -39,22 +39,22 @@ https://live15p.hotstar.com/hls/live/2123207/inallow-fihmwc-2026/eng/1540075789/
 #EXTVLCOPT:http-extra-headers=Origin: https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://live13p.hotstar.com/hls/live/2123057/inallow-bwf-2025/eng/1540076190/15mindvrm02e0a48f8b6a8643e28382e1a1fdbc573b17august2026/master_ap.m3u8?a=ns&hdnea=exp=1786967042~acl=/hls/live/2123057/inallow-bwf-2025/eng/1540076190/15mindvrm02e0a48f8b6a8643e28382e1a1fdbc573b17august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=DCe8f8A2WNNoVbbrlYOIXXhT06nlzPJLO9g8I0Op9HMQ-did=QEHEhE1Ghu70B6iI94O9Tg7oVMqdMCnwECri6EhSm6xj-cc=in-bl=jhs-de=7-pl=androidtv-ap=24.01.01.6-ut=paid-ttl=1800-type=paid-raf=1786965842-~hmac=bd2e7383e67efee6002bd8f19dcda7572303202d60c3228a4684eceb014c370b
-#DATE:- 18-08-2026 12:02
+#DATE:- 18-08-2026 15:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="1090539530" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022354/1786963814863151_SL_vs_IND_1st_Test_Day4_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Cricket",ENG | Day 4 - 1st Test - 18 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000377/cricodi1808/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f473bcebfd1c9b191fbf404e6fbce76a-1787034619129
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000377/cricodi1808/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d7ca35ae938521d6bf4494ba4d654c4-1787044555004
 #EXTINF:-1 tvg-id="1090539530" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022354/1786963814863151_SL_vs_IND_1st_Test_Day4_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv | Cricket",HIN | Day 4 - 1st Test - 18 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000380/cricodi1808/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f473bcebfd1c9b191fbf404e6fbce76a-1787034619129
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000380/cricodi1808/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d7ca35ae938521d6bf4494ba4d654c4-1787044555004
 #EXTINF:-1 tvg-id="1090539530" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022354/1786963814863151_SL_vs_IND_1st_Test_Day4_live_landscape_thumb.jpg" tvg-language="Tamil" group-title="SonyLiv | Cricket",TAM | Day 4 - 1st Test - 18 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000300/cricodi1808/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f473bcebfd1c9b191fbf404e6fbce76a-1787034619129
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000300/cricodi1808/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d7ca35ae938521d6bf4494ba4d654c4-1787044555004
 #EXTINF:-1 tvg-id="1090539530" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022354/1786963814863151_SL_vs_IND_1st_Test_Day4_live_landscape_thumb.jpg" tvg-language="Telugu" group-title="SonyLiv | Cricket",TEL | Day 4 - 1st Test - 18 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000379/cricodi1808/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f473bcebfd1c9b191fbf404e6fbce76a-1787034619129
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000379/cricodi1808/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d7ca35ae938521d6bf4494ba4d654c4-1787044555004
 #EXTINF:-1 tvg-id="1090539530" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022354/1786963814863151_SL_vs_IND_1st_Test_Day4_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="SonyLiv | Cricket",KAN | Day 4 - 1st Test - 18 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000383/cricodi1808/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=f473bcebfd1c9b191fbf404e6fbce76a-1787034619129
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000383/cricodi1808/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9d7ca35ae938521d6bf4494ba4d654c4-1787044555004
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Tuesday, 18 August 2026 at 2:00:21 pm
+#DATE:- Tuesday, 18 August 2026 at 2:55:56 pm
 #EXTINF:-1 tvg-id="4247994" tvg-name="Purani Dilli 6 Vs North Delhi Strikers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247994_53005_PD_NDS_fc-Web.png" tvg-language="English" group-title="FanCode | Cricket",ENG | Purani Dilli 6 Vs North Delhi Strikers
 https://dai-fancode.pages.dev/mumbai/4247994_english_hls_166e3306f251438_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248262" tvg-name="Uganda Vs Bahrain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card_1785824451782.png" tvg-language="English" group-title="FanCode | Cricket",ENG | Uganda Vs Bahrain
@@ -65,6 +65,6 @@ https://dai-fancode.pages.dev/mumbai/4248264_english_hls_e521be7f1c91974_1ta-di_
 https://dai-fancode.pages.dev/mumbai/4248375_english_hls_67478e107d91886_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248379" tvg-name="Finland Vs Luxembourg" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248379_53031_FIN_LUX_fc-web.jpg" tvg-language="English" group-title="FanCode | Cricket",ENG | Finland Vs Luxembourg
 https://dai-fancode.pages.dev/mumbai/4248379_english_hls_7c7dcf2d1f43393_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#DATE:- 18-08-2026 14:00
+#DATE:- 18-08-2026 15:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
