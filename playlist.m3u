@@ -10,21 +10,14 @@
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 https://live14p.hotstar.com/hls/live/2123138/inallow-fihwwc-2026/eng/1540075906/15mindvrm0378375ebb3f374b7f8885bf1f85c0785c18august2026/master_ap.m3u8?a=ns&hdnea=exp=1787087501~acl=/hls/live/2123138/inallow-fihwwc-2026/eng/1540075906/15mindvrm0378375ebb3f374b7f8885bf1f85c0785c18august2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=Aj9nTvBSIgy0SN3BIStfOamCKTOIrYpx2sV9zd5nFuuP-did=4pAP12C0hUj8vyWUYrz3FPxbEnDQeQLivCFj53Oh1UnQ-cc=in-bl=jhs-de=3-pl=androidtv-ap=24.09.25.5-ut=paid-ttl=1800-type=paid-raf=1787086301-~hmac=d8c22f81a72cc76a3e17809a161c3ff349f17d42e24e6860bb7a1bf79e6c51e5
-#DATE:- 19-08-2026 00:00
+#DATE:- 19-08-2026 07:40
+# Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090539572" tvg-name="UEFA Champions League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022385/1786979056172606_UCL26-27_Play-offs_Leg1_Fenerbahce_vs_Lyon_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Football",ENG | Fenerbahce vs Lyon - Play-offs - Leg 1 - 19 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/Football1808/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=856e687d2955f0ed09acd21500973e45-1787077802097
-#EXTINF:-1 tvg-id="1090539571" tvg-name="UEFA Champions League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022402/1787031647078942_UCL_26_Play-offs-Leg1_GNK-Dinamo-vs-Viking_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Football",ENG | GNK Dinamo vs Viking - Play-offs - Leg 1 - 19 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000301/Football1808/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=856e687d2955f0ed09acd21500973e45-1787077802097
-#EXTINF:-1 tvg-id="1090539534" tvg-name="UEFA Champions League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022402/1787031755536942_UCL_26_Play-offs-Leg1_Levski-Sofia-vs-AEK-Athens_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Football",ENG | Levski Sofia vs AEK Athens - Play-offs - Leg 1 - 19 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/Football1808/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=856e687d2955f0ed09acd21500973e45-1787077802097
-# Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Wednesday, 19 August 2026 at 1:35:13 am
+#DATE:- Wednesday, 19 August 2026 at 8:28:12 am
 #EXTINF:-1 tvg-id="4248127" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" tvg-language="English" group-title="FanCode | Tennis",ENG | World Feed
 https://dai-fancode.pages.dev/mumbai/4248127_english_hls_51ebb2812247506_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248129" tvg-name="Court 4" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" tvg-language="English" group-title="FanCode | Tennis",ENG | Court 4
-https://dai-fancode.pages.dev/mumbai/4248129_english_hls_0e2f429a1350115_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248281" tvg-name="Jamaica Kingsmen Vs St Kitts And Nevis Patriots" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248281_53026_JK_SKN_FC-Web.png" tvg-language="English" group-title="FanCode | Cricket",ENG | Jamaica Kingsmen Vs St Kitts And Nevis Patriots
+https://dai-fancode.pages.dev/mumbai/4248281_english_hls_f190074e9283438_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #DATE:- 18-08-2026 22:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
