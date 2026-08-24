@@ -14,20 +14,17 @@
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 https://live09p.hotstar.com/mp2/inallow-ligue1-2026-1540077284/019955af2064466385b7bf8d355162b8/index.mpd?a=ns&ttl=86400&hdnea=exp=1787520307~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=rNYsWgEm8yPi7uGJNpWvGhkzZJsDVfjsuNBkI86nyEF3-did=IKYdkLaL9QgJJfBrLjuH86wsVRkYWL8VuhdS3a3mT07s-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.07.22.7-ut=paid-ttl=1800-type=paid-raf=1787519107-~hmac=9bb9bfbf3b712d5d3e71e709a9c097d15d7bb37514fbec89a67118f52b993125|Cookie=hdntl=exp=1787520307~acl=/*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=rNYsWgEm8yPi7uGJNpWvGhkzZJsDVfjsuNBkI86nyEF3-did=IKYdkLaL9QgJJfBrLjuH86wsVRkYWL8VuhdS3a3mT07s-cc=in-bl=jhs-de=6-pl=androidtv-ap=26.07.22.7-ut=paid-ttl=1800-type=paid-raf=1787519107-~hmac=9bb9bfbf3b712d5d3e71e709a9c097d15d7bb37514fbec89a67118f52b993125&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=bd1d192361d8414db66edb19f1a60000:9288aa35bd144008b71ad2a229cab33c
-#DATE:- 24-08-2026 02:20
+#DATE:- 24-08-2026 05:40
+# Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090540054" tvg-name="LIV Golf" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702497412697_LIV_Golf_Indianapolis_day4_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Golf",ENG | Indianapolis - Day 4 - 23 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/LIVGolf_2308/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0224e24f4ad2e7f36983dcd9bcab0099-1787518200251
-# Written and Directed by ✨ D O C T O R - S T R A N G E ✨
-# Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Monday, 24 August 2026 at 4:14:12 am
+#DATE:- Monday, 24 August 2026 at 6:07:13 am
 #EXTINF:-1 tvg-id="4248150" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" tvg-language="English" group-title="FanCode | Tennis",ENG | World Feed
 https://dai-fancode.pages.dev/mumbai/4248150_english_hls_7d5a0550b384254_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248149" tvg-name="Men's Finals" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Cincinnati-Open-ATP-Masters-old.png" tvg-language="English" group-title="FanCode | Tennis",ENG | Men's Finals
-https://dai-fancode.pages.dev/mumbai/4248149_english_hls_9881bf7e8b85512_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248299" tvg-name="Antigua & Barbuda Falcons Vs Guyana Amazon Warriors" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248299_53026_ABF_GUY_FC-Web.png" tvg-language="English" group-title="FanCode | Cricket",ENG | Antigua & Barbuda Falcons Vs Guyana Amazon Warriors
 https://dai-fancode.pages.dev/mumbai/4248299_english_hls_ad945f9eae77460_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248430" tvg-name="Northern Territory Strike Vs Hyderabad Kingsmen" tvg-logo="https://images.fancode.com/aig/match/v1787120232574/4248430_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="FanCode | Cricket",ENG | Northern Territory Strike Vs Hyderabad Kingsmen
+https://dai-fancode.pages.dev/mumbai/4248430_english_hls_2d756ccd175371_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #DATE:- 21-08-2026 21:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
