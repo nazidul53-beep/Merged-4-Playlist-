@@ -149,22 +149,22 @@ http://stopped.server/stream68.m3u8
 http://stopped.server/stream69.m3u8
 #EXTINF:-1 group-title="JioHotstar | RTXCRIC" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH70
 http://stopped.server/stream70.m3u8
-#DATE:- 24-08-2026 21:00
+#DATE:- 24-08-2026 21:20
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="1090538390" tvg-name="Kaun Banega Crorepati" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022062/1786455674318131_KBC_S18_Generic_Simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv | Game show",HIN | Kaun Banega Crorepati
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022321/kbc182408/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c9e80cf11ed843584dda52b4cc50cbb8-1787585403571
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022321/kbc182408/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=07e711c470f978582511214cd346a5c9-1787586603678
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Monday, 24 August 2026 at 8:21:18 pm
+#DATE:- Monday, 24 August 2026 at 10:07:15 pm
 #EXTINF:-1 tvg-id="4248003" tvg-name="New Delhi Tigers Vs South Delhi Superstarz" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248003_53005_SDS_NDT_fc-Web.png" tvg-language="English" group-title="FanCode | Cricket",ENG | New Delhi Tigers Vs South Delhi Superstarz
 https://dai-fancode.pages.dev/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248353" tvg-name="Noida Kings Vs Gaur Gorakhpur Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png" tvg-language="Hindi" group-title="FanCode | Cricket",HIN | Noida Kings Vs Gaur Gorakhpur Lions
+#EXTINF:-1 tvg-id="4248353" tvg-name="Gaur Gorakhpur Lions Vs Noida Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png" tvg-language="Hindi" group-title="FanCode | Cricket",HIN | Gaur Gorakhpur Lions Vs Noida Kings
 https://dai-fancode.pages.dev/mumbai/4248353_hindi_hls_2398459a9e55686_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248353" tvg-name="Noida Kings Vs Gaur Gorakhpur Lions" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png" tvg-language="Bhojpuri" group-title="FanCode | Cricket",BHO | Noida Kings Vs Gaur Gorakhpur Lions
+#EXTINF:-1 tvg-id="4248353" tvg-name="Gaur Gorakhpur Lions Vs Noida Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png" tvg-language="Bhojpuri" group-title="FanCode | Cricket",BHO | Gaur Gorakhpur Lions Vs Noida Kings
 https://dai-fancode.pages.dev/mumbai/4248353_bhojpuri_hls_ffe69fa71031206_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248513" tvg-name="Rawain Royals Vs Taknor Tigers" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248513_53041_RR_TT_FC-Web.jpg" tvg-language="English" group-title="FanCode | Cricket",ENG | Rawain Royals Vs Taknor Tigers
-https://dai-fancode.pages.dev/mumbai/4248513_english_hls_f839819c0a99447_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248275" tvg-name="Neom Sc Vs Al Qadisiyah" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png" tvg-language="English" group-title="FanCode | Football",ENG | Neom Sc Vs Al Qadisiyah
+https://dai-fancode.pages.dev/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #DATE:- 21-08-2026 21:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
