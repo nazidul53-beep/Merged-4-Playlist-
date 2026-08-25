@@ -149,30 +149,43 @@ http://stopped.server/stream68.m3u8
 http://stopped.server/stream69.m3u8
 #EXTINF:-1 group-title="JioHotstar | RTXCRIC" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH70
 http://stopped.server/stream70.m3u8
-#DATE:- 25-08-2026 11:20
+#DATE:- 25-08-2026 15:01
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
 #EXTINF:-1 tvg-id="1090540240" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Cricket",ENG | Day 3 - 2nd Test - 25 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2508/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=50de87bd6095e7e537fdbd5a985b5113-1787637004825
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2508/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8d0735e9049c1457805d621007325248-1787650202210
 #EXTINF:-1 tvg-id="1090540240" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv | Cricket",HIN | Day 3 - 2nd Test - 25 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2508/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=50de87bd6095e7e537fdbd5a985b5113-1787637004825
+https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi2508/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8d0735e9049c1457805d621007325248-1787650202210
 #EXTINF:-1 tvg-id="1090540240" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" tvg-language="Tamil" group-title="SonyLiv | Cricket",TAM | Day 3 - 2nd Test - 25 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2508/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=50de87bd6095e7e537fdbd5a985b5113-1787637004825
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi2508/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8d0735e9049c1457805d621007325248-1787650202210
 #EXTINF:-1 tvg-id="1090540240" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" tvg-language="Telugu" group-title="SonyLiv | Cricket",TEL | Day 3 - 2nd Test - 25 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2508/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=50de87bd6095e7e537fdbd5a985b5113-1787637004825
+https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi2508/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8d0735e9049c1457805d621007325248-1787650202210
 #EXTINF:-1 tvg-id="1090540240" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg" tvg-language="Kannada" group-title="SonyLiv | Cricket",KAN | Day 3 - 2nd Test - 25 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2508/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=50de87bd6095e7e537fdbd5a985b5113-1787637004825
-#EXTINF:-1 tvg-id="1090540287" tvg-name="JITO Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022846/1787588203291677_JPL_Mumbai_Kings_vs_Chennai_Strikers_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Cricket",ENG | Mumbai Kings vs Chennai Strikers - 25 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Cricket_2508/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=50de87bd6095e7e537fdbd5a985b5113-1787637004825
+https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi2508/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8d0735e9049c1457805d621007325248-1787650202210
+#EXTINF:-1 tvg-id="1090540287" tvg-name="JITO Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022859/1787638776025877_JPL26_Mumbai_Kings_vs_Gujarat_Gladiators_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Cricket",ENG | Mumbai Kings vs Gujarat Gladiators - 25 Aug 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/Cricket_2508/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8d0735e9049c1457805d621007325248-1787650202210
 #EXTINF:-1 tvg-id="1090540256" tvg-name="India Tour of Sri Lanka 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315586628_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb_clean.jpg" tvg-language="English" group-title="SonyLiv | Cricket",ENG | Day 3 - 2nd Test - 25 Aug 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/DAI18-INDSL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=50de87bd6095e7e537fdbd5a985b5113-1787637004825
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/DAI18-INDSL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8d0735e9049c1457805d621007325248-1787650202210
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Tuesday, 25 August 2026 at 2:07:10 pm
+#DATE:- Tuesday, 25 August 2026 at 3:01:31 pm
+#EXTINF:-1 tvg-id="4248355" tvg-name="Kanpur Superstars Vs Meerut Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png" tvg-language="Hindi" group-title="FanCode | Cricket",HIN | Kanpur Superstars Vs Meerut Mavericks
+https://dai-fancode.pages.dev/mumbai/4248355_hindi_hls_40b5b0721512679_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248355" tvg-name="Kanpur Superstars Vs Meerut Mavericks" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248355_53029_KAN_MER_FC-Web_1786702851612.png" tvg-language="Bhojpuri" group-title="FanCode | Cricket",BHO | Kanpur Superstars Vs Meerut Mavericks
+https://dai-fancode.pages.dev/mumbai/4248355_bhojpuri_hls_9bbc035c8696035_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248514" tvg-name="Baukh Night Riders Vs Bhagirathi Giants" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248514_53041_BNR_BG_FC-Web.jpg" tvg-language="English" group-title="FanCode | Cricket",ENG | Baukh Night Riders Vs Bhagirathi Giants
 https://dai-fancode.pages.dev/mumbai/4248514_english_hls_810275d51e44755_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4247554" tvg-name="East Delhi Riders Women Vs North Delhi Strikers Women" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247554_53003_EDR-W_NDS-W_FC-Web_1787555684601.png" tvg-language="English" group-title="FanCode | Cricket",ENG | East Delhi Riders Women Vs North Delhi Strikers Women
 https://dai-fancode.pages.dev/mumbai/4247554_english_hls_ebe127c0ef33373_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248433" tvg-name="Bangladesh Hp Xi Vs Adelaide Strikers Academy" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248433_53036_ACA_BAN-HP_fc-web_1787393618656.jpg" group-title="FanCode | Cricket",[DRM] ENG | Bangladesh Hp Xi Vs Adelaide Strikers Academy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"k":"D6DabnYhFhh3vE_xmUOeZw","kid":"P6XbfH00QlCk3sK3EACk2w","kty":"oct"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+#EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
+https://in-mc-flive.fancode.com/mumbai/4248433_english_dash_87330_1drmta-di_h264/index.mpd
 #DATE:- 21-08-2026 21:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
