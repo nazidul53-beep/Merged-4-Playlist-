@@ -149,24 +149,22 @@ http://stopped.server/stream68.m3u8
 http://stopped.server/stream69.m3u8
 #EXTINF:-1 group-title="JioHotstar | RTXCRIC" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH70
 http://stopped.server/stream70.m3u8
-#DATE:- 25-08-2026 22:01
+#DATE:- 25-08-2026 22:41
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="1090538390" tvg-name="Kaun Banega Crorepati" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022062/1786455674318131_KBC_S18_Generic_Simulcast_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv | Game show",HIN | Kaun Banega Crorepati
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022321/kbc182508/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a3fba43d949de90ae74c28a059fc3727-1787677803675
 #EXTINF:-1 tvg-id="1090540287" tvg-name="JITO Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022867/1787641635206448_JPL26_ROYALS_HYDERABAD_vs_MUMBAI_SOBO_STARS_landscape_thumb.jpg" group-title="SonyLiv | Cricket",Royals Hyderabad vs Mumbai Sobo Stars - 25 Aug 2026
-https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8?hdnea=exp=1787718645~acl=/*~id=1631c290473fbd951673d99ef149710c-1787675403249~hmac=b74ac5c8b849669bfd6a029c492ea57316f869349132a0741d92de2501c5d569|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1631c290473fbd951673d99ef149710c-1787675403249
-#EXTINF:-1 tvg-id="1090540257" tvg-name="UEFA Champions League 2026-27" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022595/1787036925019926_UCL_26_Play-offs-Leg2_Sabah-vs-H-Beer-Sheva_live_landscape_thumb.jpg" group-title="SonyLiv | Football",Sabah vs H Beer-Sheva - Play-offs - Leg 2 - 25 Aug 2026
-https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8?hdnea=exp=1787718645~acl=/*~id=1631c290473fbd951673d99ef149710c-1787675403249~hmac=b74ac5c8b849669bfd6a029c492ea57316f869349132a0741d92de2501c5d569|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1631c290473fbd951673d99ef149710c-1787675403249
+https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8?hdnea=exp=1787718645~acl=/*~id=1631c290473fbd951673d99ef149710c-1787675403249~hmac=b74ac5c8b849669bfd6a029c492ea57316f869349132a0741d92de2501c5d569|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a3fba43d949de90ae74c28a059fc3727-1787677803675
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Tuesday, 25 August 2026 at 9:50:42 pm
+#DATE:- Tuesday, 25 August 2026 at 10:21:38 pm
 #EXTINF:-1 tvg-id="4248004" tvg-name="East Delhi Riders Vs Purani Dilli 6" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248004_53005_PD_EDR_fc-Web.png" tvg-language="English" group-title="FanCode | Cricket",ENG | East Delhi Riders Vs Purani Dilli 6
 https://dai-fancode.pages.dev/mumbai/4248004_english_hls_b2bcafa05d74311_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248354" tvg-name="Kashi Rudras Vs Lucknow Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png" tvg-language="Hindi" group-title="FanCode | Cricket",HIN | Kashi Rudras Vs Lucknow Falcons
 https://dai-fancode.pages.dev/mumbai/4248354_hindi_hls_add508635c1531_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248354" tvg-name="Kashi Rudras Vs Lucknow Falcons" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248354_53029_LCK_KAS_FC-Web_1786702851634.png" tvg-language="Bhojpuri" group-title="FanCode | Cricket",BHO | Kashi Rudras Vs Lucknow Falcons
 https://dai-fancode.pages.dev/mumbai/4248354_bhojpuri_hls_fa7af942e667778_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248515" tvg-name="Rawain Royals Vs Baragaddi Kings" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248515_53041_RR_BK_FC-Web.jpg" tvg-language="English" group-title="FanCode | Cricket",ENG | Rawain Royals Vs Baragaddi Kings
-https://dai-fancode.pages.dev/mumbai/4248515_english_hls_3c390b0e0028871_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248277" tvg-name="Abha Vs Al Khaleej Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248277_53025_ABC_AKH_FC-Web.png" tvg-language="English" group-title="FanCode | Football",ENG | Abha Vs Al Khaleej Fc
 https://dai-fancode.pages.dev/mumbai/4248277_english_hls_8a4acdd26847016_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #DATE:- 21-08-2026 21:30
