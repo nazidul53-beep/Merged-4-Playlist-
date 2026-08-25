@@ -158,19 +158,9 @@ https://sonymtmnew-akamaized.pages.dev/hls/live/20000295/Football2508/ENG/master
 https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/Football2508/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0eb3d73d210da606efaff13a4b32c1d6-1787688601777
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Wednesday, 26 August 2026 at 12:35:36 am
-#EXTINF:-1 tvg-id="4248278" tvg-name="Al Ettifaq Vs Al Nassr Fc" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248278_53025_ETT_ANF_FC-Web.png" tvg-language="English" group-title="FanCode | Football",ENG | Al Ettifaq Vs Al Nassr Fc
-https://dai-fancode.pages.dev/mumbai/4248278_english_hls_69bf822e2980299_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248497" tvg-name="Ipswich Town F.c. Vs Leicester City F.c." tvg-logo="https://images.fancode.com/aig/match/v1787223454513/4248497_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="FanCode | Football",ENG | Ipswich Town F.c. Vs Leicester City F.c.
-https://dai-fancode.pages.dev/mumbai/4248497_english_hls_9e1603f07173979_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248498" tvg-name="Plymouth Argyle Vs Coventry City F.c." tvg-logo="https://images.fancode.com/aig/match/v1787223454516/4248498_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="FanCode | Football",ENG | Plymouth Argyle Vs Coventry City F.c.
-https://dai-fancode.pages.dev/mumbai/4248498_english_hls_e3df41998b38258_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248499" tvg-name="Sheffield Wednesday F.c. Vs Wolverhampton Wanderers F.c." tvg-logo="https://images.fancode.com/aig/match/v1787223454513/4248499_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="FanCode | Football",ENG | Sheffield Wednesday F.c. Vs Wolverhampton Wanderers F.c.
-https://dai-fancode.pages.dev/mumbai/4248499_english_hls_f491625fae74750_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248500" tvg-name="Southampton F.c. Vs West Ham United" tvg-logo="https://images.fancode.com/aig/match/v1787223454494/4248500_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="FanCode | Football",ENG | Southampton F.c. Vs West Ham United
-https://dai-fancode.pages.dev/mumbai/4248500_english_hls_5488a95e0141948_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248501" tvg-name="Stoke City F.c. Vs Hull City" tvg-logo="https://images.fancode.com/aig/match/v1787223454516/4248501_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="FanCode | Football",ENG | Stoke City F.c. Vs Hull City
-https://dai-fancode.pages.dev/mumbai/4248501_english_hls_437643478775064_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- Wednesday, 26 August 2026 at 2:42:27 am
+#EXTINF:-1 tvg-id="4248152" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" tvg-language="English" group-title="FanCode | Tennis",ENG | World Feed
+https://dai-fancode.pages.dev/mumbai/4248152_english_hls_9b97d8377551599_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4247572" tvg-name="Valencia Cf Vs Real Betis" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247572_53004_VAL_RB_FC-Web.png" group-title="FanCode | Football",[DRM] ENG | Valencia Cf Vs Real Betis
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -180,12 +170,6 @@ https://dai-fancode.pages.dev/mumbai/4248501_english_hls_437643478775064_1ta-di_
 #EXTVLCOPT:http-referrer=https://fancode.com/
 #EXTHTTP:{"user-agent":"ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1","referer":"https://fancode.com/"}
 https://in-mc-flive.fancode.com/mumbai/4247572_english_dash_23346_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-id="4248502" tvg-name="Birmingham City F.c. Vs Brentford" tvg-logo="https://images.fancode.com/aig/match/v1787223454513/4248502_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="FanCode | Football",ENG | Birmingham City F.c. Vs Brentford
-https://dai-fancode.pages.dev/mumbai/4248502_english_hls_34b7419f6a74233_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248503" tvg-name="Nottingham Forest Vs Leeds United" tvg-logo="https://images.fancode.com/aig/match/v1787223454512/4248503_CASACARDS_SPORTY_APP.png" tvg-language="English" group-title="FanCode | Football",ENG | Nottingham Forest Vs Leeds United
-https://dai-fancode.pages.dev/mumbai/4248503_english_hls_c82f9499c819112_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248152" tvg-name="World Feed" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" tvg-language="English" group-title="FanCode | Tennis",ENG | World Feed
-https://dai-fancode.pages.dev/mumbai/4248152_english_hls_9b97d8377551599_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #DATE:- 21-08-2026 21:30
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
