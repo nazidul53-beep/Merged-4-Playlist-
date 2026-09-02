@@ -149,14 +149,22 @@ http://stopped.server/stream68.m3u8
 http://stopped.server/stream69.m3u8
 #EXTINF:-1 group-title="JioHotstar | RTXCRIC" tvg-logo="https://cdn.phototourl.com/free/2026-08-24-390b23af-9f3a-4d5e-9d8e-57e3f9512c38.jpg",⛔ STOPPED - @rtxcric - CH70
 http://stopped.server/stream70.m3u8
-#DATE:- 02-09-2026 09:00
+#DATE:- 02-09-2026 12:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="1090541196" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023292/1788179695909802_Punjan_T20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv | Cricket",HIN | Mohali Kings vs Ludhiana Lions - 2 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022318/Criclive0209/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=09dc803a630c6972ef45c78e3298d9a0-1788330604942
+#EXTINF:-1 tvg-id="1090541196" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023292/1788179695909802_Punjan_T20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg" tvg-language="Punjabi" group-title="SonyLiv | Cricket",PAN | Mohali Kings vs Ludhiana Lions - 2 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022318/Criclive0209/PAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=09dc803a630c6972ef45c78e3298d9a0-1788330604942
 #EXTINF:-1 tvg-id="1090541190" tvg-name="JITO Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023158/1787992407824882_JPL_26_Bengal-Indians-vs-Gujarat-Gladiators_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Cricket",ENG | Bengal Indians vs Gujarat Gladiators - 2 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Criclive0209/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0a57b719b382dc2645ef38cd2db3eef8-1788319803074
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/Criclive0209/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=09dc803a630c6972ef45c78e3298d9a0-1788330604942
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Wednesday, 2 September 2026 at 9:14:10 am
+#DATE:- Wednesday, 2 September 2026 at 12:42:14 pm
+#EXTINF:-1 tvg-id="4249108" tvg-name="Mohali Kings Vs Ludhiana Lions" tvg-logo="https://images.fancode.com/aig/match/v1788273996407/4249108_CASACARDS_SPORTY_APP.png" tvg-language="Hindi" group-title="FanCode | Cricket",HIN | Mohali Kings Vs Ludhiana Lions
+https://dai-fancode.pages.dev/mumbai/4249108_hindi_hls_959efabea972802_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249108" tvg-name="Mohali Kings Vs Ludhiana Lions" tvg-logo="https://images.fancode.com/aig/match/v1788273996407/4249108_CASACARDS_SPORTY_APP.png" tvg-language="Punjabi" group-title="FanCode | Cricket",PUN | Mohali Kings Vs Ludhiana Lions
+https://dai-fancode.pages.dev/mumbai/4249108_punjabi_hls_f43b8f202b38560_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248615" tvg-name="Oman Vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248615_53050_OMA_QAT_FC-Web.png" tvg-language="English" group-title="FanCode | Cricket",ENG | Oman Vs Qatar
 https://dai-fancode.pages.dev/mumbai/4248615_english_hls_5a27117d5548235_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248616" tvg-name="Hong Kong, China Vs Bahrain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248616_53050_HK_BRN_FC-Web.png" tvg-language="English" group-title="FanCode | Cricket",ENG | Hong Kong, China Vs Bahrain
