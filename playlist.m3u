@@ -25,16 +25,25 @@ https://live13p.hotstar.com/hls/live/2123084/inallow-kcl-2026/eng/1540076318/15m
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 https://live14p.hotstar.com/hls/live/2123147/inallow-kcl-2026/mal/1540076318/15mindvrm01511b18e27b494be0b7e5852b63d6862f02september2026/master_ap.m3u8?a=ns&hdnea=exp=1788352103~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076318/15mindvrm01511b18e27b494be0b7e5852b63d6862f02september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0JaUhtcVFXLyy1UdfkVmngGLAAOx0i1rSILN9pkV91Hk-did=WTwX6UiupkvvTOsAp6QjUxwtl3W51i83Q4ZUfDr5VNi7-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=26.01.04.8-ut=paid-ttl=1800-type=paid-raf=1788350903-~hmac=017a91a8e489a1257c02922ea345fc829e2d372ccbf35c26fa2dee6d1cbe5f01
-#DATE:- 04-09-2026 00:00
-# Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+#DATE:- 04-09-2026 12:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Friday, 4 September 2026 at 8:56:13 am
+#EXTINF:-1 tvg-id="1090541355" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv | Cricket",HIN | Bathinda Royals vs Amritsar Soormas - 4 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/criclive0409/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7f32f96a1cb9fec5a480e5224191c743-1788503403481
+#EXTINF:-1 tvg-id="1090541355" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg" tvg-language="Punjabi" group-title="SonyLiv | Cricket",PAN | Bathinda Royals vs Amritsar Soormas - 4 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/criclive0409/PAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7f32f96a1cb9fec5a480e5224191c743-1788503403481
+#EXTINF:-1 tvg-id="1090541354" tvg-name="JITO Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023472/1788498900551134_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb_rev.jpg" tvg-language="English" group-title="SonyLiv | Cricket",ENG | Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022318/criclive0409/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7f32f96a1cb9fec5a480e5224191c743-1788503403481
+# Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#DATE:- Friday, 4 September 2026 at 1:28:17 pm
+#EXTINF:-1 tvg-id="4249123" tvg-name="Amritsar Soormas Vs Bathinda Royals" tvg-logo="https://images.fancode.com/aig/match/v1788273996416/4249123_CASACARDS_SPORTY_APP.png" tvg-language="Hindi" group-title="FanCode | Cricket",HIN | Amritsar Soormas Vs Bathinda Royals
+https://dai-fancode.pages.dev/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249123" tvg-name="Amritsar Soormas Vs Bathinda Royals" tvg-logo="https://images.fancode.com/aig/match/v1788273996416/4249123_CASACARDS_SPORTY_APP.png" tvg-language="Punjabi" group-title="FanCode | Cricket",PUN | Amritsar Soormas Vs Bathinda Royals
+https://dai-fancode.pages.dev/mumbai/4249123_punjabi_hls_5a63d322b544267_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 tvg-id="4248619" tvg-name="Saudi Arabia Vs Bahrain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248619_53050_SDA_BRN_FC-Web.png" tvg-language="English" group-title="FanCode | Cricket",ENG | Saudi Arabia Vs Bahrain
 https://dai-fancode.pages.dev/mumbai/4248619_english_hls_3f694ff1d318667_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248620" tvg-name="Singapore Vs Qatar" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248620_53050_SIN_QAT_FC-Web.png" tvg-language="English" group-title="FanCode | Cricket",ENG | Singapore Vs Qatar
-https://dai-fancode.pages.dev/mumbai/4248620_english_hls_5df29fa8aa28155_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4249067" tvg-name="Selaqui Strikers Vs Herbertpur Knight Riders" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249067_53058_SS_HKR_fc-Web_fc-webtvbg.jpg" tvg-language="English" group-title="FanCode | Cricket",ENG | Selaqui Strikers Vs Herbertpur Knight Riders
-https://dai-fancode.pages.dev/mumbai/4249067_english_hls_c74f0e900080982_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139646" tvg-name="Practice Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg" tvg-language="English" group-title="FanCode | Motorsports",ENG | Practice Session
+https://dai-fancode.pages.dev/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #DATE:- 03-09-2026 21:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
