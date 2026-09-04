@@ -25,25 +25,40 @@ https://live13p.hotstar.com/hls/live/2123084/inallow-kcl-2026/eng/1540076318/15m
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169@rtxcric(Android/15)
 https://live14p.hotstar.com/hls/live/2123147/inallow-kcl-2026/mal/1540076318/15mindvrm01511b18e27b494be0b7e5852b63d6862f02september2026/master_ap.m3u8?a=ns&hdnea=exp=1788352103~acl=/hls/live/2123147/inallow-kcl-2026/mal/1540076318/15mindvrm01511b18e27b494be0b7e5852b63d6862f02september2026/master_ap*~data=ip=Zt26r0bIrlZrAEgJsnoSNT-userid=0JaUhtcVFXLyy1UdfkVmngGLAAOx0i1rSILN9pkV91Hk-did=WTwX6UiupkvvTOsAp6QjUxwtl3W51i83Q4ZUfDr5VNi7-cc=in-bl=jhs-sp=HotstarBundle-ctype=sport_live-de=6-pl=androidtv-ap=26.01.04.8-ut=paid-ttl=1800-type=paid-raf=1788350903-~hmac=017a91a8e489a1257c02922ea345fc829e2d372ccbf35c26fa2dee6d1cbe5f01
-#DATE:- 04-09-2026 12:00
+#DATE:- 04-09-2026 18:20
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#EXTINF:-1 tvg-id="1090541355" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv | Cricket",HIN | Bathinda Royals vs Amritsar Soormas - 4 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/criclive0409/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7f32f96a1cb9fec5a480e5224191c743-1788503403481
-#EXTINF:-1 tvg-id="1090541355" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg" tvg-language="Punjabi" group-title="SonyLiv | Cricket",PAN | Bathinda Royals vs Amritsar Soormas - 4 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/criclive0409/PAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7f32f96a1cb9fec5a480e5224191c743-1788503403481
-#EXTINF:-1 tvg-id="1090541354" tvg-name="JITO Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023472/1788498900551134_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb_rev.jpg" tvg-language="English" group-title="SonyLiv | Cricket",ENG | Bangalore Blaster vs Pune Peshwas - Qualifier 1 - 4 Sep 2026
-https://sonymtmnew-akamaized.pages.dev/hls/live/2022318/criclive0409/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7f32f96a1cb9fec5a480e5224191c743-1788503403481
+#EXTINF:-1 tvg-id="1090541355" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788354027911870_PT20_Ludhiana-Lions-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" tvg-language="Hindi" group-title="SonyLiv | Cricket",HIN | Ludhiana Lions vs Jalandhar Warriors - 4 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/criclive0409/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e5e2dbc9bce24b62db51c00b20dcf448-1788526202140
+#EXTINF:-1 tvg-id="1090541355" tvg-name="Sher-E-Punjab T20 League" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788354027911870_PT20_Ludhiana-Lions-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" tvg-language="Punjabi" group-title="SonyLiv | Cricket",PAN | Ludhiana Lions vs Jalandhar Warriors - 4 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/criclive0409/PAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e5e2dbc9bce24b62db51c00b20dcf448-1788526202140
+#EXTINF:-1 tvg-id="1090541517" tvg-name="JITO Premier League 2026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023469/1788466451709385_JPL_Eliminator_Rajasthan_Rajvansh_vs_Mumbai_Kings_live_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Cricket",ENG | Rajasthan Rajvansh vs Mumbai Kings - Eliminator - 4 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022318/criclive0409/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e5e2dbc9bce24b62db51c00b20dcf448-1788526202140
+#EXTINF:-1 tvg-id="1090541356" tvg-name="DP World Tour" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341850855287_DP-World-2026-Omega-European-Masters_Day2_landscape_thumb.jpg" tvg-language="English" group-title="SonyLiv | Golf",ENG | Omega European Masters - Day 2 - 4 Sep 2026
+https://sonymtmnew-akamaized.pages.dev/hls/live/2022315/Golf_Ome0409/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e5e2dbc9bce24b62db51c00b20dcf448-1788526202140
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
 # Join us on Telegram: https://t.me/jitendraunatti_github
-#DATE:- Friday, 4 September 2026 at 1:28:17 pm
-#EXTINF:-1 tvg-id="4249123" tvg-name="Amritsar Soormas Vs Bathinda Royals" tvg-logo="https://images.fancode.com/aig/match/v1788273996416/4249123_CASACARDS_SPORTY_APP.png" tvg-language="Hindi" group-title="FanCode | Cricket",HIN | Amritsar Soormas Vs Bathinda Royals
-https://dai-fancode.pages.dev/mumbai/4249123_hindi_hls_e1ca3c8b817731_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4249123" tvg-name="Amritsar Soormas Vs Bathinda Royals" tvg-logo="https://images.fancode.com/aig/match/v1788273996416/4249123_CASACARDS_SPORTY_APP.png" tvg-language="Punjabi" group-title="FanCode | Cricket",PUN | Amritsar Soormas Vs Bathinda Royals
-https://dai-fancode.pages.dev/mumbai/4249123_punjabi_hls_5a63d322b544267_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="4248619" tvg-name="Saudi Arabia Vs Bahrain" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248619_53050_SDA_BRN_FC-Web.png" tvg-language="English" group-title="FanCode | Cricket",ENG | Saudi Arabia Vs Bahrain
-https://dai-fancode.pages.dev/mumbai/4248619_english_hls_3f694ff1d318667_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1 tvg-id="139646" tvg-name="Practice Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg" tvg-language="English" group-title="FanCode | Motorsports",ENG | Practice Session
-https://dai-fancode.pages.dev/mumbai/139646_english_hls_697942bf0076776_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#DATE:- 03-09-2026 21:00
+#DATE:- Friday, 4 September 2026 at 6:35:18 pm
+#EXTINF:-1 tvg-id="4249125" tvg-name="Ludhiana Lions Vs Jalandhar Warriors" tvg-logo="https://images.fancode.com/aig/match/v1788273996413/4249125_CASACARDS_SPORTY_APP.png" tvg-language="Hindi" group-title="FanCode | Cricket",HIN | Ludhiana Lions Vs Jalandhar Warriors
+https://dai-fancode.pages.dev/mumbai/4249125_hindi_hls_c6d53b797165009_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4249125" tvg-name="Ludhiana Lions Vs Jalandhar Warriors" tvg-logo="https://images.fancode.com/aig/match/v1788273996413/4249125_CASACARDS_SPORTY_APP.png" tvg-language="Punjabi" group-title="FanCode | Cricket",PUN | Ludhiana Lions Vs Jalandhar Warriors
+https://dai-fancode.pages.dev/mumbai/4249125_punjabi_hls_85113fd3595105_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248671" tvg-name="Yalla Shabab Giants Vs Majees Titans" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248671_53052_YSG_MAT_fc-Web.jpg" tvg-language="English" group-title="FanCode | Cricket",ENG | Yalla Shabab Giants Vs Majees Titans
+https://dai-fancode.pages.dev/mumbai/4248671_english_hls_86a3cd7bc322066_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="4248461" tvg-name="South Africa Vs Namibia" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248461_53037_NAM_SA_FC-WEB.jpg" tvg-language="English" group-title="FanCode | Cricket",ENG | South Africa Vs Namibia
+https://dai-fancode.pages.dev/mumbai/4248461_english_hls_7413adb9a754902_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 tvg-id="139647" tvg-name="Qualifying Session" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Formula2_old_Match_card_1787814548632.jpg" tvg-language="English" group-title="FanCode | Motorsports",ENG | Qualifying Session
+https://dai-fancode.pages.dev/mumbai/139647_english_hls_3c5225c4d330054_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#DATE:- 04-09-2026 17:00
 # Written and Directed by ✨ D O C T O R - S T R A N G E ✨
+# Join us on Telegram: https://t.me/jitendraunatti_github
+#EXTINF:-1 tvg-id="ca22801e-7e91-45cf-98ff-6e3ce26bc0b7" tvg-logo="https://images.icc-cricket.com/image/upload/t_ratio16_9-size20/prd/yikfah3tl5tsazqkqfci" tvg-lang="English" group-title="ICC | Cricket",English | Namibia v South Africa
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"mGn4BLoY1-UIy_94GCkiHA","kid":"Ob0wLN7tNxCon7AE0jKrZw"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+#EXTVLCOPT:http-referrer=https://www.icc-cricket.com/
+#EXTVLCOPT:http-origin=https://www.icc-cricket.com
+#EXTHTTP:{"referer":"https://www.icc-cricket.com/","origin":"https://www.icc-cricket.com"}
+https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788550217~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=9a02cffb330a61c039a16a70f2445d5076027230aed6d25ff62cc22d1505af4a/manifest.mpd?vcfilter=ca22801e-7e91-45cf-98ff-6e3ce26bc0b7&
